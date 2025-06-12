@@ -482,7 +482,7 @@
 
   // "admin.access-control.epeople.form.requireCertificate": "Requires certificate",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.requireCertificate": "Requires certificate",
+  "admin.access-control.epeople.form.requireCertificate": "نیاز به گواهی",
 
   // "admin.access-control.epeople.form.return": "Back",
   // TODO New key - Add a translation
